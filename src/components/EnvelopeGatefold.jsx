@@ -83,7 +83,7 @@ export function EnvelopeGatefold({ stage, onStartOpen }) {
 
             {/* Card Footer Details */}
             <div className="relative pb-3">
-              <h2 className="font-vibes text-3xl sm:text-4xl text-[#dfba73] leading-tight drop-shadow">
+              <h2 className="font-alex text-4xl sm:text-5xl text-[#dfba73] leading-tight drop-shadow">
                 {weddingData.groom.shortName} &amp; {weddingData.bride.shortName}
               </h2>
               <div className="mt-1 flex items-center justify-center gap-2">

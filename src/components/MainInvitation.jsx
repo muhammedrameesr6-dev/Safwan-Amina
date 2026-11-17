@@ -111,11 +111,11 @@ export function MainInvitation() {
           the wedding of
         </p>
         <div className="mt-8 space-y-1">
-          <h2 className="font-vibes text-5xl sm:text-7xl leading-tight text-[#dfba73] drop-shadow-lg">
+          <h2 className="font-alex text-6xl sm:text-8xl leading-tight text-[#dfba73] drop-shadow-lg">
             {weddingData.groom.shortName}
           </h2>
           <p className="font-serif text-2xl sm:text-3xl text-[#f5d58f] italic py-1">&amp;</p>
-          <h2 className="font-vibes text-5xl sm:text-7xl leading-tight text-[#dfba73] drop-shadow-lg">
+          <h2 className="font-alex text-6xl sm:text-8xl leading-tight text-[#dfba73] drop-shadow-lg">
             {weddingData.bride.shortName}
           </h2>
         </div>
@@ -203,7 +203,7 @@ export function MainInvitation() {
         <SectionHeader>WITH THE BLESSINGS OF OUR FAMILIES</SectionHeader>
         <div className="space-y-8 max-w-md mx-auto">
           <div>
-            <p className="font-vibes text-4xl sm:text-5xl text-[#dfba73]">
+            <p className="font-alex text-5xl sm:text-6xl text-[#dfba73]">
               {weddingData.groom.fullName}
             </p>
             <p className="mt-1 text-base sm:text-lg text-[#fdfbf7]/85 font-serif">
@@ -215,7 +215,7 @@ export function MainInvitation() {
           </div>
           <FloralDivider className="text-[#dfba73]/70" />
           <div>
-            <p className="font-vibes text-4xl sm:text-5xl text-[#dfba73]">
+            <p className="font-alex text-5xl sm:text-6xl text-[#dfba73]">
               {weddingData.bride.fullName}
             </p>
             <p className="mt-1 text-base sm:text-lg text-[#fdfbf7]/85 font-serif">
@@ -355,7 +355,7 @@ export function MainInvitation() {
             {weddingData.closingDua.subtext}
           </p>
           <div className="pt-6">
-            <p className="font-vibes text-5xl sm:text-6xl text-[#dfba73]">
+            <p className="font-alex text-6xl sm:text-7xl text-[#dfba73]">
               {weddingData.groom.shortName} &amp; {weddingData.bride.shortName}
             </p>
           </div>
