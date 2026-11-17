@@ -9,7 +9,7 @@ export const weddingData = {
     mother: "Mrs. Fousiya K",
     parents: "Son of Mr. Noushad P & Mrs. Fousiya K",
     residenceName: "Foujas",
-    address: "Foujas, J.T Road, Thalassery, Saidarpally",
+    address: "J.T ROAD, SAIDARPALLY, THALASSERY",
     city: "Thalassery",
   },
   bride: {
