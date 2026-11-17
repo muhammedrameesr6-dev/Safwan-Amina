@@ -47,8 +47,8 @@ export const weddingData = {
       title: "Nikkah Ceremony",
       date: "Saturday, 26 December 2026",
       time: "04:30 PM",
-      venue: "Groom's Residence (Foujas)",
-      address: "J.T Road, Thalassery, Saidarpally",
+      venue: "(FOUJAS)",
+      address: "J.T ROAD, SAIDARPALLY, THALASSERY",
       mapUrl: "https://www.google.com/maps/search/?api=1&query=Foujas%2C+J.T+Road%2C+Thalassery%2C+Saidarpally",
       calendarUrl: "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Nikkah:+Safwan+%26+Amina&dates=20261226T110000Z/20261226T140000Z&details=You+are+warmly+invited+to+celebrate+the+Nikkah+of+Safwan+Kakkarakandy+%26+Amina+Nafas.&location=Foujas,+J.T+Road,+Thalassery,+Saidarpally",
     },
@@ -57,8 +57,8 @@ export const weddingData = {
       title: "Wedding Reception",
       date: "Sunday, 27 December 2026",
       time: "12:00 PM – 03:00 PM",
-      venue: "Groom's Residence (Foujas)",
-      address: "J.T Road, Thalassery, Saidarpally",
+      venue: "(FOUJAS)",
+      address: "J.T ROAD, SAIDARPALLY, THALASSERY",
       mapUrl: "https://www.google.com/maps/search/?api=1&query=Foujas%2C+J.T+Road%2C+Thalassery%2C+Saidarpally",
       calendarUrl: "https://calendar.google.com/calendar/render?action=TEMPLATE&text=Wedding+Reception:+Safwan+%26+Amina&dates=20261227T063000Z/20261227T093000Z&details=You+are+warmly+invited+to+celebrate+the+Wedding+Reception+of+Safwan+Kakkarakandy+%26+Amina+Nafas.&location=Foujas,+J.T+Road,+Thalassery,+Saidarpally",
     },
@@ -68,8 +68,8 @@ export const weddingData = {
   addresses: {
     groom: {
       title: "Groom's Residence",
-      name: "Foujas",
-      details: "J.T Road, Thalassery, Saidarpally",
+      name: "(FOUJAS)",
+      details: "J.T ROAD, SAIDARPALLY, THALASSERY",
       mapQuery: "Foujas, J.T Road, Thalassery, Saidarpally",
     },
     bride: {
@@ -88,9 +88,9 @@ export const weddingData = {
 
   // Venue summary for hero/envelope
   venueSummary: {
-    name: "GROOM'S RESIDENCE (FOUJAS)",
+    name: "(FOUJAS)",
     cityLine: "J.T ROAD, SAIDARPALLY, THALASSERY",
-    shortVenue: "Foujas, Thalassery",
+    shortVenue: "(FOUJAS), THALASSERY",
     mapUrl: "https://www.google.com/maps/search/?api=1&query=Foujas%2C+J.T+Road%2C+Thalassery%2C+Saidarpally",
   },
 

@@ -155,10 +155,10 @@ export function MainInvitation() {
               <p className="mt-2.5 font-cinzel text-lg sm:text-xl tracking-wider text-[#dfba73] font-bold uppercase">
                 {evt.title}
               </p>
-              <p className="mt-0.5 text-base sm:text-lg font-serif text-[#fdfbf7]/95">
+              <p className="mt-1 font-cinzel text-base sm:text-lg font-bold tracking-wider text-[#fdfbf7]">
                 {evt.venue}
               </p>
-              <p className="text-xs sm:text-sm font-serif italic text-[#fdfbf7]/75">
+              <p className="text-xs sm:text-sm font-cinzel tracking-wider text-[#dfba73]/90 uppercase mt-0.5">
                 {evt.address}
               </p>
 
